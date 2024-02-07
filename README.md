@@ -1,6 +1,6 @@
 # Hi 👋, I'm Colin!
 
-### I'm a computer science passionate about new technologies, low level programming and peer to peer technologies.</h3>
+### I'm a computer science passionate about new technologies, low level programming and peer to peer communication.</h3>
 
 - 🔭 I’m currently working on **peer to peer technologies and web development**
 
