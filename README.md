@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects !**
 
-- 💬 Ask me about **Rust, NextJS, Veilid**
+- 💬 Ask me about **Rust, Linux, Veilid**
 
 - 📫 How to reach me **colin.heurteaux@epitech.eu**
 
